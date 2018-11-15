@@ -26,4 +26,6 @@
 |[F-ing Modules](pdfs/f-ing.pdf)| Rossberg, Russo, Dreyer | TLDI 2010 |
 |[1ML — core and modules united](pdfs/1ml-jfp-draft.pdf) | Rossberg | Submitted to JFP 2016
 |[1ML with Special Effects](pdfs/1ml-effects.pdf) | Rossberg | WadlerFest 2016
+|[Modules, abstraction, and parametric polymorphism](pdfs/mapp.pdf) | Crary | POPL 2017
 |[The Geometry of Interaction as a Module System](pdfs/modules_tr.pdf) | Schöpp | 2018
+|[Fully Abstract Module Compilation](pdfs/famc.pdf) | Crary | POPL 2019 |
