@@ -2,8 +2,8 @@
 |:------|:-------:|:----:|
 |[Abstract Types Have Existential Type](pdfs/mitchell88.pdf)| Mitchell, Plotkin | TOPLAS 1988, originally in POPL 1985 |
 |[Using Dependent Types to Express Modular Structure](pdfs/macqueen86.pdf)| MacQueen | POPL 1986 |
-|[Higher-order modules and the phase distinction](pdfs/harper-mm-90.pdf) | Harper, Mitchell, Moggi | 1990
 |[On the Type Structure of Standard ML](pdfs/harper93.pdf)| Harper, Mitchell | TOPLAS 1993, originally in POPL 1988 |
+|[Higher-order modules and the phase distinction](pdfs/harper-mm-90.pdf) | Harper, Mitchell, Moggi | 1990
 |[Manifest Types, Modules, and Separate Compilation](pdfs/leroy94.pdf)| Leroy | POPL 1994 |
 |[A Type-Theoretic Approach to Higher-Order Modules with Sharing](pdfs/harper94.pdf)| Harper, Lillibridge | POPL 1994 |
 |[A category-theoretic account of program modules](pdfs/10.1.1.79.2307.pdf)| Moggi | 1994 |
