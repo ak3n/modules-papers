@@ -19,8 +19,10 @@
 |[A Type System for Higher-Order Modules](pdfs/dreyer03.pdf)| Dreyer, Crary, Harper | POPL 2003 |
 |[Understanding and Evolving the ML Module System](pdfs/dreyer-thesis.pdf)| Dreyer | PhD thesis, 2005 |
 |[Recursive Type Generativity](pdfs/dreyer-rtg.pdf)| Dreyer | JFP 2007, previously in ICFP 2005 |
+|[ML Modules and Haskell Type Classes: A Constructive Comparison](pdfs/Wehr_ML_modules_and_Haskell_type_classes.pdf) | Wehr | Master thesis, 2005
 |[From Structures and Functors to Modules and Units](pdfs/owens06.pdf)| Owens, Flatt | ICFP 2006 |
 |[A Type System for Recursive Modules](pdfs/dreyer07.pdf)| Dreyer | ICFP 2007 |
+|[Modular type classes](pdfs/main-long.pdf) | Dreyer, Harper, Chakravarty, Keller | POPL 2007
 |[Mixin' Up the ML Module System](pdfs/mixml-long.pdf)| Dreyer, Rossberg | ICFP 2008 |
 |[A practical module system for LF](pdfs/mod.pdf) | Rabe, Schürmann | LFMTP '09 |
 |[F-ing Modules](pdfs/f-ing.pdf)| Rossberg, Russo, Dreyer | TLDI 2010 |
