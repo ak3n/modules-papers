@@ -17,6 +17,7 @@
 |[A modular module system](pdfs/xleroy-modular_modules-jfp.pdf) | Leroy | JFP 2000 |
 |[Recursive Structures for Standard ML](pdfs/russo01.pdf)| Russo | ICFP 2001 |
 |[A Type System for Higher-Order Modules](pdfs/dreyer03.pdf)| Dreyer, Crary, Harper | POPL 2003 |
+|[Higher-order modules in System Fω and Haskell](pdfs/xlate.pdf)| Shan | 2004
 |[Understanding and Evolving the ML Module System](pdfs/dreyer-thesis.pdf)| Dreyer | PhD thesis, 2005 |
 |[Recursive Type Generativity](pdfs/dreyer-rtg.pdf)| Dreyer | JFP 2007, previously in ICFP 2005 |
 |[ML Modules and Haskell Type Classes: A Constructive Comparison](pdfs/Wehr_ML_modules_and_Haskell_type_classes.pdf) | Wehr | Master thesis, 2005
