@@ -1,5 +1,6 @@
 | Title | Authors | Date |
 |:------|:-------:|:----:|
+|[Logical Relations as Types: Proof-Relevant Parametricity for Program Modules](pdfs/lrat.pdf)| Sterling, Harper | Draft paper, Jul 2020 |
 |[A Focused Solution to the Avoidance Problem](pdfs/exsig.pdf) | Crary | Journal of Functional Programming, to appear, 2020 |
 |[Fully Abstract Module Compilation](pdfs/famc.pdf) | Crary | POPL 2019 |
 |[The Geometry of Interaction as a Module System](pdfs/modules_tr.pdf) | Schöpp | 2018 |
