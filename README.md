@@ -5,6 +5,7 @@
 |[Fully Abstract Module Compilation](pdfs/famc.pdf) | Crary | POPL 2019 |
 |[The Geometry of Interaction as a Module System](pdfs/modules_tr.pdf) | Schöpp | 2018 |
 |[Modules, abstraction, and parametric polymorphism](pdfs/mapp.pdf) | Crary | POPL 2017 |
+|[Defunctionalisation as Modular Closure Conversion](pdfs/schoepp17.pdf) | Schöpp | PPDP 17 |
 |[1ML with Special Effects](pdfs/1ml-effects.pdf) | Rossberg | WadlerFest 2016 |
 |[1ML — core and modules united](pdfs/1ml-jfp-draft.pdf) | Rossberg | Submitted to JFP 2016 |
 |[F-ing Modules](pdfs/f-ing.pdf)| Rossberg, Russo, Dreyer | TLDI 2010 |
@@ -13,6 +14,7 @@
 |[Modular type classes](pdfs/main-long.pdf) | Dreyer, Harper, Chakravarty, Keller | POPL 2007 |
 |[A Type System for Recursive Modules](pdfs/dreyer07.pdf)| Dreyer | ICFP 2007 |
 |[From Structures and Functors to Modules and Units](pdfs/owens06.pdf)| Owens, Flatt | ICFP 2006 |
+|[ML Module Mania: A Type-Safe, Separately Compiled, Extensible Interpreter](pdfs/ramsey06.pdf)| Ramsey | 2006 |
 |[ML Modules and Haskell Type Classes: A Constructive Comparison](pdfs/Wehr_ML_modules_and_Haskell_type_classes.pdf) | Wehr | Master thesis, 2005 |
 |[Recursive Type Generativity](pdfs/dreyer-rtg.pdf)| Dreyer | JFP 2007, previously in ICFP 2005 |
 |[Understanding and Evolving the ML Module System](pdfs/dreyer-thesis.pdf)| Dreyer | PhD thesis, 2005 |
